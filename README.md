@@ -4,4 +4,6 @@
 
 ⭐ I'm interested in programming languages, space, and people
 
+⭐ Check out my [website!](rxshira.github.io)
+
 ⭐ Reach out to me! [Email](mailto:shirar@andrew.cmu.edu) **|** [LinkedIn](https://www.linkedin.com/in/rxshira/)
