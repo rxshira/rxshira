@@ -1,9 +1,7 @@
-**Hey, I'm _Shira_!** 🚀
+**hi, i'm _shira_!** 🚀
 
-⭐ I'm a student at **Carnegie Mellon University** studying **Computer Science**
+⭐ i'm studying **computer science** at **Carnegie Mellon University**
 
-⭐ I'm interested in programming languages, space, and people
+⭐ [rxshira.github.io](rxshira.github.io)
 
-⭐ Check out my [website!](rxshira.github.io)
 
-⭐ Reach out to me! [Email](mailto:shirar@andrew.cmu.edu) **|** [LinkedIn](https://www.linkedin.com/in/rxshira/)
