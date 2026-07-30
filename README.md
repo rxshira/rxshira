@@ -2,6 +2,6 @@
 
 ⭐ i'm studying **computer science** at **carnegie mellon university**
 
-⭐ [rxshira.github.io](https://rxshira.github.io)
+⭐ [shirarubin.com](www.shirarubin.com)
 
 
